@@ -1,0 +1,24 @@
+*{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+h3{
+    color: rgb(14, 215, 230);
+}
+
+   h4{
+    color : rgb(236, 16, 89);
+   }
+
+   .myclass{
+    color : rgb(219, 129, 20);
+   }
+
+   #myid{
+    color : rgb(86, 19, 219) ;
+   }
+   
+   h5,p{
+    color : rgb(224, 22, 22);
+   }
